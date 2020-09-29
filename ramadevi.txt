@@ -1,0 +1,26 @@
+	list of files:break.sh
+demo.sh
+elseif.sh
+factorial.sh
+fibonacci.sh
+for.sh
+function.sh
+here1.sh
+heredoc1.sh
+heredoc.sh
+here.sh
+ifelif.sh
+if.sh
+oddeven.sh
+ramadevi
+ramadevi.txt
+result
+reverse.sh
+sampletext
+sampletext.sh
+simplecalculator.sh
+sunny
+sunny1
+until.sh
+while1.sh
+while.sh
