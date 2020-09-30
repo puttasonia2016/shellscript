@@ -1,33 +1,3 @@
-vi arithmetic1.sh
-vi arithmetic3.sh
-vi relation1.sh
-chmod relation1.sh
-chmod u+x relation1.sh
-./relational.sh
-./relationa1.sh
-clear
-vi relation1.sh
-chmod u+x relation1.sh
-./relation1.sh
-wq
-clear
-vi relation1.sh
-./relation1.sh
-vi relation1.sh
-./relation1.sh
-vi relation1.sh
-./relation1.sh
-clear
-vi relation1.sh
-vi boolean.sh
-chmod u+x boolean.sh
-./boolean.sh
-vi boolean.sh
-./boolean.sh
-vi boolean.sh
-./boolean.sh
-wq
-clear
 vi phone.sh
 cd son
 vi phone.sh
@@ -998,3 +968,33 @@ git remote  add origin https://github.com/puttasonia2016/unixprograms.git
 clear
 git init
 git remote add origin https://github.com/puttasonia2016/unixprograms.git
+ls
+clear
+git init
+git add .
+git status
+ls
+cd day2task
+ls
+cd sonia
+ls
+cd day2task
+ls
+gitinit
+git init
+git add .
+git commit -m "unixprogram"
+git push 
+git push origin
+git push sony https://github.com/puttasonia2016/unixprograms.git
+git push sony
+puttasonia2016
+
+clear
+cd ~
+clear
+git init
+git add .
+git commit -m "shell"
+git remote add .
+git remote add . origin https://github.com/puttasonia2016/shellscript.git
