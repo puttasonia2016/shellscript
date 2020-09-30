@@ -1,32 +1,3 @@
-clear
-./arithmetic.sh
-clear
-vi arithmetic1.sh
-chmod u+x arithmetic.sh
-./arithmetic.sh
-./arithmetic1.sh
-clear
-chmod u+x arithmetic1.sh
-./arithmetic1.sh
-wq
-clear
-vi arithmetic3.sh
-vi arithmetic1.sh
-vi arithmetic3.sh
-chmod arithmetic3.sh
-chmod u+x arithmetic3.sh
-./arithmetic3.sh
-clear
-vi arithmetic3.sh
-./arithmetic3.sh
-wq
-clear
-vi arithmetic3.sh
-./arithmetic3.sh
-clear
-vi arithmetic3.sh
-./arithmetic3.sh
-clear
 vi arithmetic1.sh
 vi arithmetic3.sh
 vi relation1.sh
@@ -998,3 +969,32 @@ java
 clear
 java
 clear
+git init
+git remote add origin https://github.com/puttasonia2016/unixprograms.git
+git remote -v
+git add .
+git commit -m "first commit"
+git config --global user.email "puttasonia2016@gmail.com"
+git config --global user.name "Sonia"
+git commit -m "first commit"
+git push origin master
+git commit -m "first commit"
+git push origin 
+git commit -m "first commit"
+git push origin 
+git push origin master
+clear
+ls
+cd task1
+ls
+cd son
+cd ~
+cd son
+ls
+clear
+git remote add origin  git config --global user.email "you@example.com"
+git remote add origin https://github.com/puttasonia2016/unixprograms.git
+git remote  add origin https://github.com/puttasonia2016/unixprograms.git
+clear
+git init
+git remote add origin https://github.com/puttasonia2016/unixprograms.git
